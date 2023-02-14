@@ -1,0 +1,7 @@
+*.pub
+id_rsa
+*.pem
+*.tfstate
+*.tfvars
+*.hcl
+**/.terraform
